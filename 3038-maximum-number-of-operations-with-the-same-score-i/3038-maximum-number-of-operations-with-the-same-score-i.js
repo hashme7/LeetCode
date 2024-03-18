@@ -9,7 +9,7 @@ var maxOperations = function(nums) {
         if(nums[i] + nums[i+1] == target){
             c++ ;
         }else{
-break;
+            break;
         }
     }
     return c;
