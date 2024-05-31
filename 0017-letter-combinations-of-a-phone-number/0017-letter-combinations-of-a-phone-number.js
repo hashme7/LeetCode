@@ -19,9 +19,7 @@ var letterCombinations = function (digits) {
             "8": "tuv",
             "9": "wxyz",
         }
-        console.log(digitsInPhone[digits[i]])
         for (ch of digitsInPhone[digits[i]]) {
-            console.log(ch)
             dfs(i + 1, currStr + ch);
         }
     }
