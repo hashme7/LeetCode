@@ -9,3 +9,11 @@ Welcome to my LeetCode solutions repository! 🚀 Here, you'll find my implement
 
 
 Happy coding! 🚀✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hshim77/LeetCode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
