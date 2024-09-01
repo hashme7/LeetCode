@@ -20,6 +20,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,12 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hashme7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
