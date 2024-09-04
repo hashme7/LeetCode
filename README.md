@@ -20,6 +20,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -53,4 +54,12 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
