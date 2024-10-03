@@ -22,6 +22,7 @@ Happy coding! 🚀✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
@@ -29,6 +30,7 @@ Happy coding! 🚀✨
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
