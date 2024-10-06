@@ -25,6 +25,7 @@ Happy coding! 🚀✨
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -80,6 +81,7 @@ Happy coding! 🚀✨
 ## Sorting
 |  |
 | ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
