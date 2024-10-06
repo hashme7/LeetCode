@@ -25,6 +25,7 @@ Happy coding! 🚀✨
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,12 @@ Happy coding! 🚀✨
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
