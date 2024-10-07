@@ -25,6 +25,7 @@ Happy coding! 🚀✨
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -75,6 +76,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
@@ -91,6 +93,7 @@ Happy coding! 🚀✨
 | [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
