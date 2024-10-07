@@ -89,5 +89,14 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
