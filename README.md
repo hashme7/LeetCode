@@ -29,6 +29,7 @@ Happy coding! 🚀✨
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hashme7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2159-two-out-of-three](https://github.com/hashme7/LeetCode/tree/master/2159-two-out-of-three) |
 | [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2159-two-out-of-three](https://github.com/hashme7/LeetCode/tree/master/2159-two-out-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Happy coding! 🚀✨
 | [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2159-two-out-of-three](https://github.com/hashme7/LeetCode/tree/master/2159-two-out-of-three) |
 ## String
 |  |
 | ------- |
