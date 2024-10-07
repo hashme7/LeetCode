@@ -16,6 +16,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hshim77/LeetCode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
@@ -86,5 +88,6 @@ Happy coding! 🚀✨
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
