@@ -20,6 +20,7 @@ Happy coding! 🚀✨
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hashme7/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -34,6 +35,7 @@ Happy coding! 🚀✨
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hashme7/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +89,7 @@ Happy coding! 🚀✨
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hashme7/LeetCode/tree/master/0015-3sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
