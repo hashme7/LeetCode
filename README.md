@@ -27,6 +27,7 @@ Happy coding! 🚀✨
 | [0303-range-sum-query-immutable](https://github.com/hashme7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hashme7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -41,11 +42,13 @@ Happy coding! 🚀✨
 | [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1168-duplicate-zeros](https://github.com/hashme7/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hashme7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hashme7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hshim77/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hashme7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hashme7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
@@ -91,6 +94,7 @@ Happy coding! 🚀✨
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hashme7/LeetCode/tree/master/0015-3sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hashme7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/hashme7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hashme7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -99,6 +103,7 @@ Happy coding! 🚀✨
 | [0202-happy-number](https://github.com/hashme7/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/hashme7/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hashme7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hashme7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hashme7/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2159-two-out-of-three](https://github.com/hashme7/LeetCode/tree/master/2159-two-out-of-three) |
 ## String
